@@ -3,7 +3,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" alt="keep on coding" height="250" width="450" />
 
 
-- 🌱 I’m currently learning **DevOps - CI/CD, Docker, Kubernetes, Terraform, and more**
+- 🌱 I’m currently learning **DevOps | AWS, Linux, Scripts, CI/CD, Jenkins, Ansible, GitOps, Docker,Kubernetes, & many more**
 
 - 📫 How to reach me **himanshu.kumar244@gmail.com**
 
