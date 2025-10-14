@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **himanshu.kumar244@gmail.com**
 
-- ⚡ Fun fact **I think I have great sense of humour 🚩🕳 🏇**
+- ⚡ Fun fact **I used to find bugs - now I deploy them faster (just kidding 😄)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
