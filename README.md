@@ -34,8 +34,6 @@
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" /> </a>
 </p>
 
-[![Himanshu Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=H1manshu-Kumar)](https://github.com/H1manshu-Kumar/github-readme-stats)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/H1manshu-Kumar/H1manshu-Kumar/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/H1manshu-Kumar/H1manshu-Kumar/output/github-snake.svg" />
