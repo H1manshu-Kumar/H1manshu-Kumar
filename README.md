@@ -199,11 +199,6 @@ next_projects:
   - "End-to-end CI/CD pipeline: GitHub → Docker → ECR → EKS"
   - "Terraform AWS: Full VPC + EC2 + RDS + ALB infrastructure"
   - "Grafana dashboard: Application + infrastructure observability"
-
-certifications_target:
-  - "AWS Certified Cloud Practitioner"
-  - "AWS Certified DevOps Engineer – Professional"
-  - "Certified Kubernetes Administrator (CKA)"
 ```
 
 ---
