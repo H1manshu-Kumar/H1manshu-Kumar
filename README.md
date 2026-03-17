@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2C9CF0&center=true&vCenter=true&multiline=false&width=700&lines=I+code%2C+I+test%2C+I+deploy+%E2%80%94+faster%2C+safer%2C+smarter+%E2%98%81%EF%B8%8F;5%2B+years+breaking+systems+so+prod+never+does+%F0%9F%94%A5;QA+%E2%86%92+DevOps%3A+The+pipeline+is+my+playground+%E2%99%BE%EF%B8%8F;+Cloud-native%2C+container-first%2C+zero-downtime+%F0%9F%9A%80)](https://github.com/H1manshu-Kumar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2C9CF0&center=true&vCenter=true&multiline=false&width=700&lines=I+code%2C+I+test%2C+I+deploy+%E2%80%94+faster%2C+safer%2C+smarter+%E2%98%81%EF%B8%8F;5%2B+years+breaking+systems+so+prod+never+does+%F0%9F%94%A5;QA+%E2%86%92+DevOps%3A+The+pipeline+is+my+playground+%E2%99%BE%EF%B8%8F;Cloud-native%2C+container-first%2C+zero-downtime+%F0%9F%9A%80)](https://github.com/H1manshu-Kumar)
 
 </div>
 
@@ -42,39 +42,64 @@ QA Automation (5+ yrs)          DevOps Transition (Now)              Target Role
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-
-### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### ⚙️ CI/CD & GitOps
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🧪 QA & Testing (Core Expertise)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-### 🗄️ Databases & OS
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+<table>
+  <tr>
+    <td><b>☁️ Cloud & IaC</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-E6F1FB?style=flat-square&logoColor=185FA5&logo=amazonwebservices&labelColor=E6F1FB&color=E6F1FB"/>
+      <img src="https://img.shields.io/badge/Terraform-E6F1FB?style=flat-square&logo=terraform&logoColor=185FA5&color=E6F1FB"/>
+      <img src="https://img.shields.io/badge/Azure-E6F1FB?style=flat-square&logo=microsoftazure&logoColor=185FA5&color=E6F1FB"/>
+      <img src="https://img.shields.io/badge/GCP-E6F1FB?style=flat-square&logo=googlecloud&logoColor=185FA5&color=E6F1FB"/>
+      <img src="https://img.shields.io/badge/Ansible-E6F1FB?style=flat-square&logo=ansible&logoColor=185FA5&color=E6F1FB"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🐳 Containers & Orch.</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-E1F5EE?style=flat-square&logo=docker&logoColor=085041&color=E1F5EE"/>
+      <img src="https://img.shields.io/badge/Kubernetes-E1F5EE?style=flat-square&logo=kubernetes&logoColor=085041&color=E1F5EE"/>
+      <img src="https://img.shields.io/badge/Docker%20Compose-E1F5EE?style=flat-square&logo=docker&logoColor=085041&color=E1F5EE"/>
+      <img src="https://img.shields.io/badge/Docker%20Scout-E1F5EE?style=flat-square&logo=docker&logoColor=085041&color=E1F5EE"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚙️ CI/CD & GitOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Jenkins-EEEDFE?style=flat-square&logo=jenkins&logoColor=3C3489&color=EEEDFE"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-EEEDFE?style=flat-square&logo=githubactions&logoColor=3C3489&color=EEEDFE"/>
+      <img src="https://img.shields.io/badge/Git-EEEDFE?style=flat-square&logo=git&logoColor=3C3489&color=EEEDFE"/>
+      <img src="https://img.shields.io/badge/GitOps-EEEDFE?style=flat-square&logo=git&logoColor=3C3489&color=EEEDFE"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>💻 Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-FAEEDA?style=flat-square&logo=python&logoColor=633806&color=FAEEDA"/>
+      <img src="https://img.shields.io/badge/Java-FAEEDA?style=flat-square&logo=openjdk&logoColor=633806&color=FAEEDA"/>
+      <img src="https://img.shields.io/badge/Bash%20%2F%20Shell-FAEEDA?style=flat-square&logo=gnubash&logoColor=633806&color=FAEEDA"/>
+      <img src="https://img.shields.io/badge/HCL-FAEEDA?style=flat-square&logo=terraform&logoColor=633806&color=FAEEDA"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧪 QA & Testing</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Selenium-FAECE7?style=flat-square&logo=selenium&logoColor=712B13&color=FAECE7"/>
+      <img src="https://img.shields.io/badge/TestNG-FAECE7?style=flat-square&logo=testing-library&logoColor=712B13&color=FAECE7"/>
+      <img src="https://img.shields.io/badge/Postman-FAECE7?style=flat-square&logo=postman&logoColor=712B13&color=FAECE7"/>
+      <img src="https://img.shields.io/badge/.NET-FAECE7?style=flat-square&logo=dotnet&logoColor=712B13&color=FAECE7"/>
+      <img src="https://img.shields.io/badge/MySQL-FAECE7?style=flat-square&logo=mysql&logoColor=712B13&color=FAECE7"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🖥️ OS & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-F1EFE8?style=flat-square&logo=linux&logoColor=444441&color=F1EFE8"/>
+      <img src="https://img.shields.io/badge/VS%20Code-F1EFE8?style=flat-square&logo=visualstudiocode&logoColor=444441&color=F1EFE8"/>
+      <img src="https://img.shields.io/badge/Prometheus-F1EFE8?style=flat-square&logo=prometheus&logoColor=444441&color=F1EFE8"/>
+      <img src="https://img.shields.io/badge/Grafana-F1EFE8?style=flat-square&logo=grafana&logoColor=444441&color=F1EFE8"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -199,6 +224,11 @@ next_projects:
   - "End-to-end CI/CD pipeline: GitHub → Docker → ECR → EKS"
   - "Terraform AWS: Full VPC + EC2 + RDS + ALB infrastructure"
   - "Grafana dashboard: Application + infrastructure observability"
+
+certifications_target:
+  - "AWS Certified Cloud Practitioner"
+  - "AWS Certified DevOps Engineer – Professional"
+  - "Certified Kubernetes Administrator (CKA)"
 ```
 
 ---
