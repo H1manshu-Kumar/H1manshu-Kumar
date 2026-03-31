@@ -193,23 +193,6 @@ Most DevOps engineers focus on *speed of delivery*. I bring **quality thinking i
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=H1manshu-Kumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H1manshu-Kumar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=H1manshu-Kumar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🎯 Currently Learning & Building
 
 ```yaml
